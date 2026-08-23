@@ -412,3 +412,7 @@ Built using the MERN stack.
 ⭐ If you like this project
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
+
+## Live URLs
+
+BookBazaar URL : https://book-bazaar-ivory.vercel.app/
