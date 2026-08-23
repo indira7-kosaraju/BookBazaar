@@ -415,4 +415,5 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 ## Live URLs
 
-BookBazaar URL : https://book-bazaar-ivory.vercel.app/
+Frontend URL : https://book-bazaar-git-main-indira3.vercel.app/
+Backend URL :https://bookbazaar-backend-9llb.onrender.com/
