@@ -29,7 +29,7 @@ function Register() {
       setLoading(true);
 
       const response = await API.post(
-        "/api/auth/register",
+        "/auth/register",
         formData
       );
 
