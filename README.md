@@ -310,45 +310,42 @@ Protected features become available
 
 ⚙️ Installation & Setup
 1. Clone the repository
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/indira7-kosaraju/BookBazaar.git
+
 2. Open the project
 cd BookBazaar
+
 3. Install backend dependencies
 cd server
 npm install
+
 4. Configure environment variables
-
 Create a .env file inside the server folder.
-
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
+
 5. Start the backend
 npm run dev
-
 or:
-
 node server.js
+
 6. Install frontend dependencies
-
 Open another terminal:
-
 cd client
 npm install
+
 7. Start the frontend
 npm run dev
-
 The frontend will normally run at:
-
 http://localhost:5173
-
 The backend will normally run at:
-
 http://localhost:5000
+
+
+
 🧪 Features Tested
-
 The following features have been implemented and tested:
-
 ✅ User registration
 ✅ User login
 ✅ JWT authentication
@@ -376,10 +373,13 @@ The following features have been implemented and tested:
 ✅ Edit profile
 ✅ Update profile
 ✅ Responsive UI
-🎯 Future Improvements
+
+
+
+
+🎯 Future Improvements::
 
 Possible future enhancements:
-
 💳 Online payment integration
 🖼️ Book image uploads
 ⭐ Book ratings and reviews
@@ -393,24 +393,19 @@ Possible future enhancements:
 📧 Email notifications
 🌐 Deployment to production
 
+
+
 🎓 Project Purpose
-
 BookBazaar aims to create a simple and affordable platform where students and readers can exchange books.
-
 Instead of keeping unused books on shelves, users can sell them to other readers while buyers can find used books at lower prices.
-
 Give Your Books a New Life.
-
 Sell the books you no longer need and discover quality used books at affordable prices.
 
 👨‍💻 Author
-
 BookBazaar — Full Stack Web Development Project
-
 Built using the MERN stack.
 
 ⭐ If you like this project
-
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 ## Live URLs
